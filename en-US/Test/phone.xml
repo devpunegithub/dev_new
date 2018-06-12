@@ -1,6 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE record SYSTEM "dcr4.5.dtd">
-<record name="warPeace.dcr" type="content"><item name="Title"><value>book</value></item><item name="Cover Picture"><value>book picture</value></item><item name="Author"><value>manish</value></item><item name="Publication Date"><value>2012-12-12</value></item><item name="ISBN"><value>22.88</value></item><item name="Cover"><value>Paperback</value></item><item name="Price"><value>66.88</value></item><item name="Plot Summary"><value/></item><item name="Reviews"><value><item name="Review Reader"><value/></item>
-<item name="Review Reader a E-Mail"><value/></item>
-<item name="Reader Comments"><value/></item>
-</value></item></record>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<content connectType="Eloqua" sourceType="Email" sourceName="EmailTest" sourceId="20798">
+    <field id="20798" name="subject" translate="true" maxLength="0" metadata="false"><![CDATA[This is a test time]]></field>
+    <field id="20798" name="htmlBody" translate="true" maxLength="0" metadata="false"><![CDATA[<body style=""> <table width="100%" border="0" cellspacing="0" cellpadding="0" class="email-body-wrapper"><tr><td align="center" height="0"></td></tr><tr><td><table cellspacing="0" cellpadding="0" border="0" bordercollapse="collapse" align="center" width="600" id="sc3475" style="table-layout: auto; empty-cells: show"><tr><td align="left" valign="top" width="14" height="27" id="empty0"></td><td align="left" valign="top" width="30" height="27" id="empty1"></td><td align="left" valign="top" width="178" height="27" id="empty2"></td><td align="left" valign="top" width="12" height="27" id="empty3"></td><td align="left" valign="top" width="40" height="27" id="empty4"></td><td align="left" valign="top" width="37" height="27" id="empty5"></td><td align="left" valign="top" width="14" height="27" id="empty6"></td><td align="left" valign="top" width="221" height="27" id="empty7"></td>
+<td align="left" valign="top" width="28" height="27" id="empty8"></td><td align="left" valign="top" width="26" height="27" id="empty9"></td></tr><tr><td align="left" valign="top" width="14" height="34" id="empty10"></td><td valign="top" align="left" rowspan="1" colspan="3" width="220" height="34" id="view11" style="color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px; word-wrap: break-word"><div id="sc4770" class="sc-view hidden-border inline-styled-view editor-outline" style="left: 14px; width: 220px; top: 27px; height: 34px; color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px; word-wrap: break-word; overflow: hidden"><div class="co-border-style" style="">
+<table width="220" height="34" cellspacing="0" cellpadding="0" border="0" bordercollapse="collapse" class="co-style-table" style="color: #000000; font-family: Arial; font-size: 12px; line-height: 18px; letter-spacing: 0px; word-wrap: break-word; margin-top: 0px; margin-left: 0px; margin-right: 0px; margin-bottom: 0px"><tr><td valign="top" class="valign-able"><span class="remove-absolute">This is &nbsp;my test time</span></td></tr></table></div></div></td><td align="left" valign="top" width="40" height="34" id="empty14"></td><td align="left" valign="top" width="37" height="34" id="empty15"></td><td valign="top" align="left" rowspan="4" colspan="2" width="235" height="248" id="view16" style="line-height: 18px"><div id="sc4775" class="sc-view inline-styled-view editor-outline" style="left: 311px; width: 235px; top: 27px; height: 248px; line-height: 18px; overflow: hidden">
+<div class="co-border-style" style=""><table width="235" height="248" cellspacing="0" cellpadding="0" border="0" bordercollapse="collapse" class="co-style-table" style="line-height: 18px; margin-top: 0px; margin-left: 0px; margin-right: 0px; margin-bottom: 0px"><tr><td valign="top" class="valign-able Section"><span elqid="8" elqtype="Section" class="remove-absolute" style="display: block"><table border="0" cellpadding="0" cellspacing="0" valign="top" width="100%"><!-- top text/image start -->
+	<tbody>
+		<tr>
+			<td height="20" valign="top" width="100%">&nbsp;</td>
+		</tr>
+		<!-- top text/image end --><!-- middle title/image start -->
+		<tr>
+			<td height="20" valign="top" width="100%">Event Title Goes Here</td>
+		</tr>
+		<!-- middle title/image end --><!-- middle text/image start -->
+		<tr>
+			<td height="40" valign="top" width="100%">Insert event detail here along with call to action and any other pertinent information.<br>
+			<br>
+			Date of Event<br>
+			Time of Event<br>
+			Location of Event<br>
+			&nbsp;
+			<div align="center"><a href="#"><img alt="Register Now" border="0" height="40" src="http://img02.en25.com/eloquaimages/clients/catalyst/{9f743655-e7f4-4deb-8907-77f39992b3a8}_register_now.gif" width="150"></a></div>
+			</td>
+		</tr>
+		<!-- middle text/image end --><!-- bottom text/image start -->
+		<tr>
+			<td height="20" valign="top" width="100%">&nbsp;</td>
+		</tr>
+		<!-- bottom text/image end -->
+	</tbody>
+</table>
+</span></td></tr></table></div></div></td><td align="left" valign="top" width="28" height="34" id="empty18"></td><td align="left" valign="top" width="26" height="34" id="empty19"></td></tr><tr><td align="left" valign="top" width="14" height="26" id="empty20"></td><td align="left" valign="top" width="30" height="26" id="empty21"></td><td align="left" valign="top" width="178" height="26" id="empty22"></td><td align="left" valign="top" width="12" height="26" id="empty23"></td><td align="left" valign="top" width="40" height="26" id="empty24"></td><td align="left" valign="top" width="37" height="26" id="empty25"></td><td align="left" valign="top" width="28" height="26" id="empty28"></td><td align="left" valign="top" width="26" height="26" id="empty29"></td></tr><tr><td align="left" valign="top" width="14" height="157" id="empty30"></td>
+<td align="left" valign="top" width="30" height="157" id="empty31"></td><td valign="top" align="left" rowspan="1" colspan="1" width="178" height="157" id="view32" style=""><div id="sc4780" class="sc-view" style="left: 44px; width: 178px; top: 87px; height: 157px; overflow: hidden"><div class="co-border-style" style="border-width: 2px; border-style: none"><table width="178" height="157" cellspacing="0" cellpadding="0" border="0" bordercollapse="collapse" class="co-style-table" style="margin-top: 0px; margin-left: 0px; margin-right: 0px; margin-bottom: 0px"><tr><td valign="top" class="valign-able"><img width="178" height="157" src="http://img.en25.com/EloquaImages/clients/TechnologyPartnerTranslationscom/{06055d56-38ee-4b48-ae54-17fe4be24fe5}_GL_Cycle1.jpg" title="" alt="" id="sc4782" class="sc-view sc-image-view editor-outline sc-regular-size" style="display: block"></td></tr>
+</table></div></div></td><td align="left" valign="top" width="12" height="157" id="empty33"></td><td align="left" valign="top" width="40" height="157" id="empty34"></td><td align="left" valign="top" width="37" height="157" id="empty35"></td><td align="left" valign="top" width="28" height="157" id="empty38"></td><td align="left" valign="top" width="26" height="157" id="empty39"></td></tr><tr><td align="left" valign="top" width="14" height="31" id="empty40"></td><td align="left" valign="top" width="30" height="31" id="empty41"></td><td align="left" valign="top" width="178" height="31" id="empty42"></td><td align="left" valign="top" width="12" height="31" id="empty43"></td><td align="left" valign="top" width="40" height="31" id="empty44"></td><td align="left" valign="top" width="37" height="31" id="empty45"></td><td align="left" valign="top" width="28" height="31" id="empty48">
+</td><td align="left" valign="top" width="26" height="31" id="empty49"></td></tr><tr><td align="left" valign="top" width="14" height="35" id="empty50"></td><td align="left" valign="top" width="30" height="35" id="empty51"></td><td align="left" valign="top" width="178" height="35" id="empty52"></td><td align="left" valign="top" width="12" height="35" id="empty53"></td><td align="left" valign="top" width="40" height="35" id="empty54"></td><td align="left" valign="top" width="37" height="35" id="empty55"></td><td align="left" valign="top" width="14" height="35" id="empty56"></td><td align="left" valign="top" width="221" height="35" id="empty57"></td><td align="left" valign="top" width="28" height="35" id="empty58"></td><td align="left" valign="top" width="26" height="35" id="empty59"></td></tr><tr><td align="left" valign="top" width="14" height="3" id="empty60"></td>
+<td valign="top" align="left" rowspan="3" colspan="4" width="260" height="276" id="view61" style="line-height: 18px"><div id="sc4798" class="sc-view inline-styled-view editor-outline" style="left: 14px; width: 260px; top: 310px; height: 276px; line-height: 18px; overflow: hidden"><div class="co-border-style" style=""><table width="260" height="276" cellspacing="0" cellpadding="0" border="0" bordercollapse="collapse" class="co-style-table" style="line-height: 18px; margin-top: 0px; margin-left: 0px; margin-right: 0px; margin-bottom: 0px"><tr><td valign="top" class="valign-able DynamicContent"><span elqid="2" elqtype="DynamicContent" class="remove-absolute" style="display: block"><div class="title section" style="overflow: hidden; margin-bottom: 20px; padding-top: 20px; color: rgb(108, 108, 109); font-family: Arial, sans-serif; font-size: 15px; line-height: 23px; background-color: rgb(255, 255, 255);">
+<h3 style="margin: 0px; color: rgb(24, 26, 27); font-family: 'Univers LT W01 45 Light', Arial, sans-serif; font-size: 21px; line-height: 24px; text-transform: uppercase;">CAReerS</h3>
+</div>
+
+<div class="promotion-pod section" style="overflow: hidden; margin: 0px 0px 36px; color: rgb(108, 108, 109); font-family: Arial, sans-serif; font-size: 15px; line-height: 23px; background-color: rgb(255, 255, 255);">
+<div class="promo-pod-top-img-first promo-link  ">
+<p class="title" style="margin: 0px; color: rgb(102, 137, 168); font-size: 18px; font-family: 'Univers LT W01 55 Roman', Arial, sans-serif; padding-top: 0px;">Job Opportunities</p>
+
+<p class="title" style="margin: 0px; color: rgb(102, 137, 168); font-size: 18px; font-family: 'Univers LT W01 55 Roman', Arial, sans-serif; padding-top: 0px;">&nbsp;</p>
+
+<div class="content" style="clear: left; margin-top: 15px;">
+<p style="margin: 0px; display: inline;">t&#39;s time to join our diverse and dynamic team of Modern Marketing experts who focus on customer success, innovation, and technology.</p>
+</div>
+</div>
+</div>
+
+<div class="promotion-pod section" style="overflow: hidden; margin: 0px 0px 36px; color: rgb(108, 108, 109); font-family: Arial, sans-serif; font-size: 15px; line-height: 23px; background-color: rgb(255, 255, 255);">
+<div class="promo-pod-top-img-first promo-link  ">&nbsp;</div>
+</div>
+</span></td></tr></table></div></div></td><td align="left" valign="top" width="37" height="3" id="empty65"></td><td align="left" valign="top" width="14" height="3" id="empty66"></td><td align="left" valign="top" width="221" height="3" id="empty67"></td><td align="left" valign="top" width="28" height="3" id="empty68"></td><td align="left" valign="top" width="26" height="3" id="empty69"></td></tr><tr><td align="left" valign="top" width="14" height="270" id="empty70"></td><td align="left" valign="top" width="37" height="270" id="empty75"></td><td align="left" valign="top" width="14" height="270" id="empty76"></td><td valign="top" align="left" rowspan="1" colspan="2" width="249" height="270" id="view77" style="line-height: 18px">
+<div id="sc4793" class="sc-view inline-styled-view editor-outline" style="left: 325px; width: 249px; top: 313px; height: 270px; line-height: 18px; overflow: hidden"><div class="co-border-style" style=""><table width="249" height="270" cellspacing="0" cellpadding="0" border="0" bordercollapse="collapse" class="co-style-table" style="line-height: 18px; margin-top: 0px; margin-left: 0px; margin-right: 0px; margin-bottom: 0px"><tr><td valign="top" class="valign-able signaturelayout"><span elqid="4" elqtype="signaturelayout" class="remove-absolute" style="display: block"><strong>Vaibhav Khare</strong><br>
+Product Manager<br>
+<strong>Translations</strong><strong>.com</strong><br>
+&nbsp;<br>
+20400 Stevens Creek Blvd.,<br>
+Suite 125,<br>
+Cupertino, CA 95014<br>
+t. 408.553.0254 | f. 408.553.0256|m. 203.517.8937<br>
+e-mail:&nbsp;<u><a href="mailto:xfort@translations.com">vkhare@translations.com</a></u>&nbsp;<br>
+<u><a href="http://www.translations.com/?elqTrackId=3e7291eafdd74ea2b93fe1cae1771910">www.translations.com</a></u><br>
+Translations.com is ISO 9001:2008 certified and a member of the Transperfect family of companies<br>
+&nbsp;</span></td></tr></table></div></div></td><td align="left" valign="top" width="26" height="270" id="empty79"></td></tr><tr><td align="left" valign="top" width="14" height="3" id="empty80"></td><td align="left" valign="top" width="37" height="3" id="empty85"></td><td align="left" valign="top" width="14" height="3" id="empty86"></td><td align="left" valign="top" width="221" height="3" id="empty87"></td><td align="left" valign="top" width="28" height="3" id="empty88"></td><td align="left" valign="top" width="26" height="3" id="empty89"></td></tr><tr><td align="left" valign="top" width="14" height="14" id="empty90"></td><td align="left" valign="top" width="30" height="14" id="empty91"></td><td align="left" valign="top" width="178" height="14" id="empty92"></td><td align="left" valign="top" width="12" height="14" id="empty93"></td>
+<td align="left" valign="top" width="40" height="14" id="empty94"></td><td align="left" valign="top" width="37" height="14" id="empty95"></td><td align="left" valign="top" width="14" height="14" id="empty96"></td><td align="left" valign="top" width="221" height="14" id="empty97"></td><td align="left" valign="top" width="28" height="14" id="empty98"></td><td align="left" valign="top" width="26" height="14" id="empty99"></td></tr></table></td></tr><tr><td align="center" height="0"></td></tr></table> </body>]]></field>
+    <field id="20798" name="root_1" translate="true" maxLength="0" metadata="false"><![CDATA[This is &nbsp;my test time]]></field>
+    <field id="20798" name="root_2" translate="true" maxLength="0" metadata="false"><![CDATA[http://img.en25.com/EloquaImages/clients/TechnologyPartnerTranslationscom/{06055d56-38ee-4b48-ae54-17fe4be24fe5}_GL_Cycle1.jpg]]></field>
+</content>
